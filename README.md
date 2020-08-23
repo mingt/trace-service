@@ -65,3 +65,4 @@ https://github.com/mingt/sys-version/
 ## 参考
 
 * [美团点评前端无痕埋点实践](https://tech.meituan.com/2017/03/02/mt-mobile-analytics-practice.html)
+* [CAT 用户端监控文档](http://unidal.org/cat/r/home?op=view&docName=browserMonitor#interface)
